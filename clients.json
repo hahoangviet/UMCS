@@ -1,0 +1,61 @@
+[
+  {
+    "id": "id111",
+    "password": "di111",
+    "server": {
+      "ip": "",
+      "port": "4444"
+    },
+    "actions": {
+      "delay": " DELAY IN 2 SECONDS ",
+      "steps": [
+        "INCREASE 5",
+        "DECREASE 3",
+        "DECREASE 7",
+        "INCREASE 8",
+        "INCREASE 4"
+      ]
+    }
+  },
+  {
+    "id": "id112",
+    "password": "di112",
+    "server": {
+      "ip": "",
+      "port": "4444"
+    },
+    "actions": {
+      "delay": " DELAY IN 4 SECONDS ",
+      "steps": [
+        "DECREASE 4",
+        "DECREASE 4",
+        "INCREASE 2",
+        "INCREASE 3",
+        "INCREASE 5"
+      ]
+    }
+  },
+  {
+    "id": "id113",
+    "password": "di113",
+    "server": {
+      "ip": "",
+      "port": "4444"
+    },
+    "actions": {
+      "delay": " DELAY IN 1 SECONDS ",
+      "steps": [
+        "INCREASE 1",
+        "DECREASE 1",
+        "DECREASE 1",
+        "INCREASE 1",
+        "INCREASE 1",
+        "INCREASE 1",
+        "INCREASE 2",
+        "INCREASE 2",
+        "DECREASE 3",
+        "DECREASE 4"
+      ]
+    }
+  }
+]
